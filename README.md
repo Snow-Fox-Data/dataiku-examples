@@ -1,9 +1,10 @@
 # Snow Fox Data Dataiku Examples
 
-## Non-Code demos:
-
-### https://www.snowfoxdata.com/resources/integrating-dataiku-and-visual-studio-code-for-python-development
-
-### https://www.snowfoxdata.com/resources/integrating-dataiku-and-pycharm-for-python-development
-
-### https://www.snowfoxdata.com/resources/dataikureusableapplication
+ ______  __   __     _____     _      _      _____   _____    __  __     _____     _____    _______    _____    
+/ ____/\/_/\ /\_\   ) ___ (   /_/\  /\_\   /\_____\ ) ___ ( /\  /\  /\  /\ __/\   /\___/\ /\_______)\ /\___/\   
+) ) __\/) ) \ ( (  / /\_/\ \  ) ) )( ( (  ( (  ___// /\_/\ \\ \ \/ / /  ) )  \ \ / / _ \ \\(___  __\// / _ \ \  
+ \ \ \ /_/   \ \_\/ /_/ (_\ \/_/ //\\ \_\  \ \ \_ / /_/ (_\ \\ \  / /  / / /\ \ \\ \(_)/ /  / / /    \ \(_)/ /  
+ _\ \ \\ \ \   / /\ \ )_/ / /\ \ /  \ / /  / / /_\\ \ )_/ / // /  \ \  \ \ \/ / // / _ \ \ ( ( (     / / _ \ \  
+)____) ))_) \ (_(  \ \/_\/ /  )_) /\ (_(  / /____/ \ \/_\/ // / /\ \ \  ) )__/ /( (_( )_) ) \ \ \   ( (_( )_) ) 
+\____\/ \_\/ \/_/   )_____(   \_\/  \/_/  \/_/      )_____( \/__\/__\/  \/___\/  \/_/ \_\/  /_/_/    \/_/ \_\/  
+                                                                                                                
